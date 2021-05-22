@@ -1,0 +1,204 @@
+MessageId,EDIComponentException,PartnerName,TransactionSetControlNumber,InterchangeControlNumber,MessageType,GroupControlNumber
+"384d8aa8-89b9-4968-9ec9-e4c9e14c40c4","Error encountered during parsing. The Edifact transaction set with id 'EW37557639' contained in interchange (without group) with id 'EW64060617', with sender id '8431224000002', receiver id 'MS-EMEA' is being suspended with following errors:
+Error: 1 (Field level error)
+	SegmentID: NAD
+	Position in TS: 8
+	Data Element ID: C05901
+	Position in Segment: 6
+	Position in Field: 1
+	Data Value: Calle Teide nÂº 4 # NÃºcleo 2 # 1Âª Pl
+	39: Data element too long
+
+","GTI(Spain)",EW37557639,EW64060617,"http://MSIT.EAS.ICOE.VL.Orders.EOCSelect.Schemas.PA.EFACTD97AOrders#EFACT_D97A_ORDERS",
+"9eb7926f-f69c-45b0-9928-2063e57a10d6","Error encountered during parsing. The Edifact transaction set with id '5' contained in interchange (without group) with id '10312', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 49
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,5,10312,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"c9620340-aca2-412e-b2e3-b83ddf61b962","Error encountered during parsing. The Edifact transaction set with id '27' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 52
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,27,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"1ed4e169-8b6e-41dd-9f39-3887e6662075","Error encountered during parsing. The Edifact transaction set with id '5' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 49
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,5,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"9bb2d5b7-209e-4d4c-97d0-5d64e4c2c63b","Error encountered during parsing. The Edifact transaction set with id '20' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 51
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,20,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"6663af27-cfe8-4615-89ef-52035dffc56d","Error encountered during parsing. The Edifact transaction set with id '2' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 53
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,2,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"8075693c-b82f-4e3e-a263-37038f292916","Error encountered during parsing. The Edifact transaction set with id '12' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 114
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,12,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"b5965d4e-ba38-4718-83b1-a160c06a066e","Error encountered during parsing. The Edifact transaction set with id '6' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 156
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,6,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"4cf51a93-a30e-460d-b981-808bc0d77923","Error encountered during parsing. The Edifact transaction set with id '21' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 51
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,21,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"d8b4e2bc-ab33-4f98-a689-8f7ed3972e48","Error encountered during parsing. The Edifact transaction set with id '11' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 50
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,11,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"617bbd50-7d81-42ca-aeb9-293b1e767657","Error encountered during parsing. The Edifact transaction set with id '18' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 116
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,18,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"aec1624a-a214-4ba0-abee-aeab31c00f65","Error encountered during parsing. The Edifact transaction set with id '17' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 72
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,17,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"ac6efbdf-0430-4423-abdd-dcd3fd68d200","Error encountered during parsing. The Edifact transaction set with id '8' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 90
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,8,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"e35b8196-94bb-4e00-bbb5-6a606af62907","Error encountered during parsing. The Edifact transaction set with id '1' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 340
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,1,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"f7133f34-297b-4c20-9f38-9591701162f8","Error encountered during parsing. The Edifact transaction set with id '10' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 49
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,10,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"a4b1d76e-df82-4ea9-b801-00f22620777f","Error encountered during parsing. The Edifact transaction set with id '3' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 321
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,3,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"25e75274-bf6e-443b-b1af-7f7e9cd83de8","Error encountered during parsing. The Edifact transaction set with id '4' contained in interchange (without group) with id '10310', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 125
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,4,10310,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"5003f614-6133-4b6f-af09-748e91a8c81a","Error encountered during parsing. The Edifact transaction set with id '3' contained in interchange (without group) with id '10312', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 163
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,3,10312,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"e2872e16-6767-4acb-808f-fe7ac8424c30","Error encountered during parsing. The X12 transaction set with id '0023' contained in functional group with id '1837', in interchange with id '627602350', with sender id 'SYNNPROD       ', receiver id '081466849      ' is being suspended with following errors:
+Error: 1 (Field level error)
+	SegmentID: N1
+	Position in TS: 9896
+	Data Element ID: N102
+	Position in Segment: 2
+	Data Value: 
+	6: Invalid character in data element
+
+Error: 2 (Field level error)
+	SegmentID: N1
+	Position in TS: 11248
+	Data Element ID: N102
+	Position in Segment: 2
+	Data Value: 
+	6: Invalid character in data element
+
+Error: 3 (Field level error)
+	SegmentID: N1
+	Position in TS: 14498
+	Data Element ID: N102
+	Position in Segment: 2
+	Data Value: 
+	6: Invalid character in data element
+
+Error: 4 (Field level error)
+	SegmentID: N1
+	Position in TS: 21856
+	Data Element ID: N102
+	Position in Segment: 2
+	Data Value: 
+	6: Invalid character in data element
+
+","Synnex(US)",0023,627602350,"http://MSIT.EAS.ICOE.COM.X128674010.Schemas.PA.X1200401867#X12_00401_867",1837
+"ba408824-f476-4d59-bb6b-55f56f912017","Error encountered during parsing. The Edifact transaction set with id '1' contained in interchange (without group) with id '10314', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 346
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,1,10314,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"980ced92-8605-4993-986c-daa40cca33bf","Error encountered during parsing. The Edifact transaction set with id '5' contained in interchange (without group) with id '10314', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 51
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,5,10314,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"5745692a-3749-4445-b48e-b16608eb3b3b","Error encountered during parsing. The Edifact transaction set with id '8' contained in interchange (without group) with id '10314', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 98
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,8,10314,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"1d2ef9d7-3641-4061-adeb-4ae49186e2c3","Error encountered during parsing. The Edifact transaction set with id '6' contained in interchange (without group) with id '10314', with sender id 'FTNTBPROD', receiver id '081466849' is being suspended with following errors:
+Error: 1 (Segment level error)
+	SegmentID: UNT
+	Position in TS: 51
+	15: Use of segment, data-type or segment not supported in this position
+
+",FedEx,6,10314,"http://schemas.microsoft.com/BizTalk/EDI/EDIFACT/2006#EFACT_D10B_CUSDEC",
+"514e4f7c-62fa-487f-a198-baabaedd6a15","Error encountered during parsing. The Edifact transaction set with id 'EW53505312' contained in interchange (without group) with id 'EW64060617', with sender id '8431224000002', receiver id 'MS-EMEA' is being suspended with following errors:
+Error: 1 (Field level error)
+	SegmentID: NAD
+	Position in TS: 8
+	Data Element ID: C08001
+	Position in Segment: 5
+	Position in Field: 1
+	Data Value: DIGIBÃRIA Information Technologies,
+	39: Data element too long
+
+","GTI(Spain)",EW53505312,EW64060617,"http://MSIT.EAS.ICOE.VL.Orders.EOCSelect.Schemas.PA.EFACTD97AOrders#EFACT_D97A_ORDERS",
